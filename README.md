@@ -29,9 +29,7 @@ Kickdulla focused on visual interactive gameplay as head of Abdulla with Kratos,
 
 ### How To Play
 
-1. Enter this Domain:
-
-[Play Game](alvin-antony-ajish.github.io/Kickdulla)
+1. Enter this Domain: [alvin-antony-ajish.github.io/Kickdulla](alvin-antony-ajish.github.io/Kickdulla)
 
 3. Click Full screen.
 
