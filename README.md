@@ -1,11 +1,11 @@
 
-# HeadBallAbdulla
+# Kickdulla
 
-HeadBallAbdulla (kickdulla) is a 2D football game created by Alvin Antony Ajish based on Abdulla Arshawin Shameer (boxing champion).
+Kickdulla is a 2D football game created by Alvin Antony Ajish based on Abdulla Arshawin Shameer (boxing champion).
 
 ## About
 
-HeadBallAbdulla focused on visual interactive gameplay as head of Abdulla with Kratos,Alin Jose and Santhosh Varkey. Who reach 10 goals in one gameplay would win.
+Kickdulla focused on visual interactive gameplay as head of Abdulla with Kratos,Alin Jose Perera and Santhosh Varkey. Who reach 10 goals in one gameplay would win.
 
 ## Features
 
@@ -31,15 +31,15 @@ HeadBallAbdulla focused on visual interactive gameplay as head of Abdulla with K
 
 1. Enter this Domain:
 
-   alvin-antony-ajish.github.io/HeadBallAbdulla
+[Play Game](alvin-antony-ajish.github.io/Kickdulla)
 
-2. Click Full screen.
+3. Click Full screen.
 
-3. Click Launch Game.
+4. Click Launch Game.
 
-4. Click Start Game.
+5. Click Start Game.
 
-5. Enjoy!
+6. Enjoy!
 
 
 ## License
